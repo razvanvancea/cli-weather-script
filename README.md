@@ -28,7 +28,7 @@ source ~/.bashrc
 
 ### **How to use the scripts?**
 
-Return the weather of **the chosen city ** (you chose it in the 'wb' alias step - .bashrc file) via CLI:
+Return the weather of **the chosen city** (you chose it in the 'wb' alias step - .bashrc file) via CLI:
 ```html
 wb
 ```
