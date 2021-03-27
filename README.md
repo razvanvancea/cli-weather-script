@@ -26,7 +26,7 @@ alias weather='python3 ~/cli-weather-script/get_weather.py'
 source ~/.bashrc
 ```
 
-### **How to use the scripts?**
+### **How to use the script?**
 
 Return the weather of **the chosen location** (you chose it in the 'wb' alias step - .bashrc file) via CLI:
 ```html
