@@ -1,4 +1,4 @@
-# Bring weather information into your terminal
+# Bring weather report into your terminal
 ### available on Linux and MacOS platforms
 <img src="blob/logo.jpg">
 
