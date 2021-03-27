@@ -9,7 +9,7 @@ Python v3, Git
 1. Clone the project in the home directory
 ```html
   cd ~/
-  git clone https://github.com/razvanvancea/linux-cli-weather-script.git
+  git clone https://github.com/razvanvancea/cli-weather-script.git
 ```
 2. Open the .bashrc file
 ```html
@@ -17,8 +17,8 @@ nano ~/.bashrc
 ```
 3. Add the following aliases (in the following script, feel free to replace 'Bucharest' with a different city)
 ```html
-alias wb='python3 ~/linux-cli-weather-script/get_weather.py Bucharest'
-alias weather='python3 ~/linux-cli-weather-script/get_weather.py' 
+alias wb='python3 ~/cli-weather-script/get_weather.py Bucharest'
+alias weather='python3 ~/cli-weather-script/get_weather.py' 
 ```
 4. Save and close the file (e.g. for nano editor: CTRL+X, then press Y and Enter)
 5. Use the following command to reload the .bashrc file
