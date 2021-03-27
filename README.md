@@ -15,8 +15,8 @@ nano ~/.bashrc
 ```
 3. Add the following aliases
 ```html
-alias wb='python3 ~/cli-scripts/get_weather.py Bucharest'
-alias weather='python3 ~/cli-scripts/get_weather.py' 
+alias wb='python3 ~/linux-cli-weather-script/get_weather.py Bucharest'
+alias weather='python3 ~/linux-cli-weather-script/get_weather.py' 
 ```
 4. Save and close the file (e.g. for nano editor: CTRL+X, then press Y and Enter)
 5. Use the following command to reload the .bashrc file
