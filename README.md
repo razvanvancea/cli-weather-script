@@ -1,5 +1,6 @@
 # Bring weather info directly into your terminal
 ## available on Linux and MacOS platforms
+<img src="blob/logo.jpg">
 ### **Prerequisites:** 
 Python v3, Git
 
