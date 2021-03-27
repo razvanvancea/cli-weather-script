@@ -13,7 +13,7 @@ Python v3, Git
 ```html
 nano ~/.bashrc
 ```
-3. Add the following aliases
+3. Add the following aliases (in the following script, feel free to replace 'Bucharest' with a different city)
 ```html
 alias wb='python3 ~/linux-cli-weather-script/get_weather.py Bucharest'
 alias weather='python3 ~/linux-cli-weather-script/get_weather.py' 
@@ -26,7 +26,7 @@ source ~/.bashrc
 
 ### **How to use the scripts?**
 
-Return the weather of **your chosen location** (it will always be the same location set in .bashrc) via CLI:
+Return the weather of **the chosen city ** (you chose it in the 'wb' alias step - .bashrc file) via CLI:
 ```html
 wb
 ```
@@ -35,5 +35,3 @@ Return **specific location** weather via CLI (the location name needs to be _pas
 ```html
 weather Berlin
 ```
-
-_NOTE: in the first alias, feel free to replace "Bucharest" with your desired location._
