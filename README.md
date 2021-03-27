@@ -1,5 +1,5 @@
 # Bring weather report into your terminal
-### available on Linux and MacOS platforms
+### available on Linux and macOS platforms
 <img src="blob/logo.jpg">
 
 ### **Prerequisites:** 
