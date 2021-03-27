@@ -36,6 +36,4 @@ Return **specific location** weather via CLI (the location name needs to be _pas
 weather Berlin
 ```
 
-_NOTE: 'wb' and 'weather' are aliases. They can be replaced with any other names._
-
 _NOTE: in the first alias, feel free to replace "Bucharest" with your desired location._
