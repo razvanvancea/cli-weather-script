@@ -1,5 +1,5 @@
 # Bring weather info directly into your terminal
-## Note: available on Linux and MacOS
+## available on Linux and MacOS platforms
 ### **Prerequisites:** 
 Python v3, Git
 
@@ -26,15 +26,7 @@ source ~/.bashrc
 
 ### **How to use the scripts?**
 
-
-## **Get Weather from the CLI script** - available on Linux and MACOS
-
-
-_NOTE: 'wb' and 'weather' are aliases. They can be replaced with any other names._
-
-_NOTE: in the first alias, feel free to replace "Bucharest" with your desired location._
-
-Return the weather of **your current location** (it will always be the same location set in .bashrc) via CLI:
+Return the weather of **your chosen location** (it will always be the same location set in .bashrc) via CLI:
 ```html
 wb
 ```
@@ -43,3 +35,7 @@ Return **specific location** weather via CLI (the location name needs to be _pas
 ```html
 weather Berlin
 ```
+
+_NOTE: 'wb' and 'weather' are aliases. They can be replaced with any other names._
+
+_NOTE: in the first alias, feel free to replace "Bucharest" with your desired location._
